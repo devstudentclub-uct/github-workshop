@@ -33,4 +33,9 @@ Do the following:
 
     $ git push origin rtnjan001-branch
 
+- If everything was successful, github should respond with a link to create a new pull request. It will look something like this:
+
+    https://github.com/devstudentclub-uct/github-workshop/pull/new/<branchname>
+
+- Click on the link you got, and follow the steps to create a pull request.
 
