@@ -4,7 +4,11 @@ This repo contains a script called `main.sh`, which simply executes all python f
 
 ## Assignment
 
-Do the following:
+You will add a python file to the source code. There are two ways to contribute to a repo. Firstly, by direct access (you are explicitly given repo access), or secondly, by forking (usually used for open source contributions). In this workshop we'll be making use of the first method. If you would like to know more about forking and contributing to open source, be sure to ask at the end of the workshop.
+
+Follow these instructions with the workshop leader:
+
+- Give your GitHub username to a tutor, so they can add you as a collaborator to the repo. While they do that, continue to the next step. 
 
 - Clone the repo onto your computer:
 
