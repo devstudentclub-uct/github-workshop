@@ -49,11 +49,11 @@ https://github.com/devstudentclub-uct/github-workshop/pull/new/<branchname>
 
 - Now wait for an admin to merge in your pull request. If your request gets rejected, you will need to change your code and make a new PR (after committing and pushing your changes, of course).
 
-- After your PR is accepted, the `master` branch will have your code in it. Now switch to the master branch and fetch it to get the updated code.
+- After your PR is accepted, the `master` branch will have your code in it. Now switch to the master branch and pull it to get the updated code.
 
 ```sh
 git checkout master
-git fetch origin master
+git pull origin master
 ```
 
 - And finally, run the new code (linux only):
@@ -61,3 +61,4 @@ git fetch origin master
 ```sh
 ./main.sh
 ```
+
