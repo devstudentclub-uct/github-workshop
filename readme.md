@@ -8,7 +8,9 @@ Do the following:
 
 - Clone the repo onto your computer:
 
-    $ git clone https://github.com/devstudentclub-uct/github-workshop.git
+```
+$ git clone https://github.com/devstudentclub-uct/github-workshop.git
+```
 
 - Go into the cloned dir and make a new branch with your student number as name.
 
@@ -22,7 +24,7 @@ Do the following:
 
 - In that python file, write some code that prints your name:
 
-    print("Hello, this is George coding")
+     print("Hello, this is George coding")
 
 - Commit that file.
 
