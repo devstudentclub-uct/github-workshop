@@ -45,5 +45,19 @@ git push origin rtnjan001-branch
 https://github.com/devstudentclub-uct/github-workshop/pull/new/<branchname>
 ```
 
-- Click on the link you got, and follow the steps to create a pull request into `master`.
+- Click on the link you got, and follow the steps to create a pull request into `master`. Alternatively, you can simply go to the [repo page on GitHub](https://github.com/devstudentclub-uct/github-workshop/) and click on "New pull request".
 
+- Now wait for an admin to merge in your pull request. If your request gets rejected, you will need to change your code and make a new PR (after committing and pushing your changes, of course).
+
+- After your PR is accepted, the `master` branch will have your code in it. Now switch to the master branch and fetch it to get the updated code.
+
+```sh
+git checkout master
+git fetch origin master
+```
+
+- And finally, run the new code (linux only):
+
+```sh
+./main.sh
+```
